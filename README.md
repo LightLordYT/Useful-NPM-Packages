@@ -12,7 +12,7 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
   
   [Guify](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#guify)
   
-  [Dat.Gui](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#dat.gui)
+  [Dat.Gui](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#datgui)
   
  
  # Webpack
