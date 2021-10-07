@@ -25,7 +25,7 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
   
  # React
  
-  [React Website](https://reactjs.org/))
+  [React Website](https://reactjs.org/)
  
  # Guify
  
