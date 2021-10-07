@@ -23,6 +23,6 @@
      [Changelog]()
      Active: True
 
-# Resources/Go Back To Main Page
+# Go Back To Main Page
 
-[Look at Resources and go back to main page](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#readme)
+[Go back to main page](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#readme)
