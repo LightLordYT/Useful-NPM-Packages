@@ -25,4 +25,4 @@
 
 # Resources/Go Back To Main Page
 
-[Look at Resources and go back to main page]()https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md
+[Look at Resources and go back to main page](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#readme)
