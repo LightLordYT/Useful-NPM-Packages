@@ -2,7 +2,7 @@
  
   [Webpack Website](https://webpack.js.org/guides/getting-started/)
   
-  [Github]()
+  [Github](https://github.com/webpack/webpack)
   
    ## Installation
   
