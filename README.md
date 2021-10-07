@@ -35,7 +35,7 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  
   There is no official Dat.Gui Website.
   
-    [Github](https://github.com/colejd/guify)
+  ```  [Github](https://github.com/colejd/guify)```
   
  ## Resources
  
