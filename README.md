@@ -4,6 +4,7 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
 # Contents
   [Webpack]()
     I would also recommend Babel to go with this
+    
     [Babel]()
   
   [React]()
@@ -17,7 +18,7 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  
   [Webpack Website](https://webpack.js.org/guides/getting-started/)
   
-    ## Resources
+    Resources
     
      [A good video tutorial for babel and webpack](https://www.youtube.com/watch?v=iWUR04B42Hc)
  
