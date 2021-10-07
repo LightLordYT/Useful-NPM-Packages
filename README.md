@@ -55,33 +55,44 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  
   There is no official Dat.Gui Website.
   
-   [Github](https://github.com/colejd/guify)
-   
-   [NPM](https://www.npmjs.com/package/guify)
-   
-   [Yarn](https://yarnpkg.com/package/guify)
-   
-   [UNPKG](https://unpkg.com/guify@0.12.0/lib/guify.min.js)
-   
+  ## Installation
+  
+  [NPM](https://www.npmjs.com/package/guify)
+  
+  [Yarn](https://yarnpkg.com/package/guify)
+  
+  ### For HTML
+  
+  [UNPKG](https://unpkg.com/guify@0.12.0/lib/guify.min.js)
+
   ## Info
   
     Latest Version: 1.2.0
+    Active: True
     
  # Package Managers
  
- # Unpackage
-  
- ## Resources
- 
-  [NPM](https://www.npmjs.com)
+ [NPM](https://www.npmjs.com)
     
-    ```### Guides```
+   ### Guides
+   
+   [NPM Official Docs](https://docs.npmjs.com/)
     
   [YARN](https://yarnpkg.com/)
   
-  ```  ### Guides```
+   ### Guides
+  
+   [YARN Official Docs](https://yarnpkg.com/getting-started)
+ 
+ # Unpackage
   
   [UNPKG](https://unpkg.com/)
+  
+   ### Guides
+   
+   [UNPKG Official Docs](https://unpkg.com/)
+  
+ ## Resources
  
   [A good video tutorial for babel and webpack](https://www.youtube.com/watch?v=iWUR04B42Hc)
  
