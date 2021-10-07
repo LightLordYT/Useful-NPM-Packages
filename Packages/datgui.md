@@ -22,3 +22,7 @@
      [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
      [Changelog](https://github.com/dataarts/dat.gui/blob/master/CHANGELOG.md)
      Active: True
+
+# Go Back To Main Page
+
+[Go back to main page](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#readme)
