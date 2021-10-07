@@ -21,15 +21,11 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  # Package Managers
  
  [NPM](https://www.npmjs.com)
+ [YARN](https://yarnpkg.com/)
     
    ### Guides
    
-   [NPM Official Docs](https://docs.npmjs.com/)
-    
-  [YARN](https://yarnpkg.com/)
-  
-   ### Guides
-  
+   [NPM Official Docs](https://docs.npmjs.com/)  
    [YARN Official Docs](https://yarnpkg.com/getting-started)
  
  # Unpackage
