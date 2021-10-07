@@ -1,22 +1,22 @@
-# Useful-NPM-Packages
+# Useful-NPM/YARN-Packages
 I have put some NPM Packages down below that are pretty useful in my opinion. 
 
 # Contents
-  [Webpack](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#webpack)
+  [Webpack](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#webpack)
   
     I would also recommend Babel to go with this
     
-  [Babel](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#babel)
+  [Babel](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#babel)
   
-  [React](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#react)
+  [React](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#react)
   
-  [Guify](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#guify)
+  [Guify](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#guify)
   
-  [Dat.Gui](https://github.com/LightLordYT/Useful-NPM-Packages/blob/main/README.md#datgui)
+  [Dat.Gui](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#datgui)
   
-  [Package Managers]()
+  [Package Managers](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#packagemanagers)
   
-  [Unpackage]()
+  [Unpackage](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#unpackage)
  
  # Webpack
  
@@ -36,15 +36,20 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
   
   [Github](https://github.com/colejd/guify)
   
+  ## Installation
+  
   [NPM](https://www.npmjs.com/package/guify)
   
   [Yarn](https://yarnpkg.com/package/guify)
+  
+  ### For HTML
   
   [UNPKG](https://unpkg.com/guify@0.12.0/lib/guify.min.js)
 
   ## Info
   
     Latest Version: 1.2.0
+    Active: True
  
  # Dat.Gui 
  
@@ -67,6 +72,13 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  # Unpackage
   
  ## Resources
+ 
+  [NPM](https://www.npmjs.com)
+    
+    ### Guides
+    
+  [YARN](https://yarnpkg.com/)
+  [UNPKG](https://unpkg.com/)
  
   [A good video tutorial for babel and webpack](https://www.youtube.com/watch?v=iWUR04B42Hc)
  
