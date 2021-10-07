@@ -22,13 +22,76 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  
   [Webpack Website](https://webpack.js.org/guides/getting-started/)
   
+  [Github]()
+  
+   ## Installation
+  
+   [NPM](https://www.npmjs.com/package/guify)
+  
+   [Yarn](https://yarnpkg.com/package/guify)
+  
+   ### For HTML
+  
+   Put this into your html in the heading:
+   
+   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
+   
+   ## Info
+  
+     Latest Version: 1.2.0
+     [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
+     [Changelog]()
+     Active: True
+  
   # Babel
  
   [Babel Website](https://babeljs.io/)    
   
+  [Github]()
+  
+   ## Installation
+  
+   [NPM](https://www.npmjs.com/package/guify)
+  
+   [Yarn](https://yarnpkg.com/package/guify)
+  
+   ### For HTML
+  
+   Put this into your html in the heading:
+   
+   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
+   
+   ## Info
+  
+     Latest Version: 1.2.0
+     [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
+     [Changelog]()
+     Active: True
+  
  # React
  
   [React Website](https://reactjs.org/)
+  
+  [Github]()
+  
+   ## Installation
+  
+   [NPM](https://www.npmjs.com/package/guify)
+  
+   [Yarn](https://yarnpkg.com/package/guify)
+  
+   ### For HTML
+  
+   Put this into your html in the heading:
+   
+   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
+   
+   ## Info
+  
+     Latest Version: 1.2.0
+     [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
+     [Changelog]()
+     Active: True
  
  # Guify
  
@@ -36,39 +99,49 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
   
   [Github](https://github.com/colejd/guify)
   
-  ## Installation
+   ## Installation
   
-  [NPM](https://www.npmjs.com/package/guify)
+   [NPM](https://www.npmjs.com/package/guify)
   
-  [Yarn](https://yarnpkg.com/package/guify)
+   [Yarn](https://yarnpkg.com/package/guify)
   
-  ### For HTML
+   ### For HTML
   
-  [UNPKG](https://unpkg.com/guify@0.12.0/lib/guify.min.js)
+   Put this into your html in the heading:
+   
+   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
 
-  ## Info
+   ## Info
   
-    Latest Version: 1.2.0
-    Active: True
+     Latest Version: 1.2.0
+     [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
+     [Changelog]()
+     Active: True
  
  # Dat.Gui 
  
   There is no official Dat.Gui Website.
   
+  [Github](https://github.com/dataarts/dat.gui)
+  
   ## Installation
   
-  [NPM](https://www.npmjs.com/package/guify)
+   [NPM](https://www.npmjs.com/package/guify)
   
-  [Yarn](https://yarnpkg.com/package/guify)
+   [Yarn](https://yarnpkg.com/package/guify)
   
-  ### For HTML
+   ### For HTML
   
-  [UNPKG](https://unpkg.com/guify@0.12.0/lib/guify.min.js)
+   Put this into your html in the heading:
+   
+   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
 
-  ## Info
+   ## Info
   
-    Latest Version: 1.2.0
-    Active: True
+     Latest Version: 0.7.7
+     [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
+     [Changelog](https://github.com/dataarts/dat.gui/blob/master/CHANGELOG.md)
+     Active: True
     
  # Package Managers
  
