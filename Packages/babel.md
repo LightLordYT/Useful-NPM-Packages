@@ -26,3 +26,11 @@
 # Go Back To Main Page
 
 [Go back to main page](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#readme)
+
+# Resources
+
+[Look at resources](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#resources)
+
+# More Packages
+
+[Look at more packages](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages)
