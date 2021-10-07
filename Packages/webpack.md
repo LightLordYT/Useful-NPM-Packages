@@ -6,21 +6,21 @@
   
    ## Installation
   
-   [NPM](https://www.npmjs.com/package/guify)
+   [NPM](https://www.npmjs.com/package/webpack)
   
-   [Yarn](https://yarnpkg.com/package/guify)
+   [Yarn](https://yarnpkg.com/package/webpack)
   
    ### For HTML
   
    Put this into your html in the heading:
    
-   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
+   ```<script type="text/javascript" src="https://unpkg.com/webpack@5.58.0/bin/webpack.js"></script>```
    
    ## Info
   
-     Latest Version: 1.2.0
-     [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
-     [Changelog]()
+     Latest Version: 5.58.0
+     [Docs](https://webpack.js.org/concepts/)
+     [Changelog](https://github.com/webpack-contrib/eslint-webpack-plugin/blob/master/CHANGELOG.md)
      Active: True
 
 # Go Back To Main Page
