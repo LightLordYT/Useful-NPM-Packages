@@ -29,11 +29,13 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  
  # Guify
  
-  [Guify Github]() (There was no website for it)
+  [Guify Website](https://jons.website/projects/guify/) 
  
  # Dat.Gui
  
-  [Dat.Gui Website]()
+  There is no official Dat.Gui Website.
+  
+    [Github](https://github.com/colejd/guify)
   
  ## Resources
  
