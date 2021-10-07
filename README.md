@@ -29,7 +29,7 @@ I have put some NPM Packages down below that are pretty useful in my opinion.
  
  # Guify
  
-  [Guify Github(There is no website for it)]()
+  [Guify Github]() (There was no website for it)
  
  # Dat.Gui
  
