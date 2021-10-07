@@ -2,17 +2,17 @@
 I have put some NPM/YARN Packages down below that are pretty useful in my opinion. 
 
 # Contents
-  [Webpack](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#webpack)
+  [Webpack](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/webpack.md)
   
     I would also recommend Babel to go with this
     
-  [Babel](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#babel)
+  [Babel](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/babel.md)
   
-  [React](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#react)
+  [React](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/react.md)
   
-  [Guify](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#guify)
+  [Guify](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/guify.md)
   
-  [Dat.Gui](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#datgui)
+  [Dat.Gui](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/datgui.md)
   
   [Package Managers](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#packagemanagers)
   
