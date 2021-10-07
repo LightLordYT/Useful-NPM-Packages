@@ -1,5 +1,5 @@
 # Useful-NPM/YARN-Packages
-I have put some NPM Packages down below that are pretty useful in my opinion. 
+I have put some NPM/YARN Packages down below that are pretty useful in my opinion. 
 
 # Contents
   [Webpack](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#webpack)
