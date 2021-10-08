@@ -2,25 +2,28 @@
  
   [React Website](https://reactjs.org/)
   
-  [Github]()
+  [Github](https://github.com/facebook/react)
   
    ## Installation
   
-   [NPM](https://www.npmjs.com/package/guify)
+   [NPM React](https://www.npmjs.com/package/react)
+   
+   [NPM React Dom](https://www.npmjs.com/package/react-dom)
   
-   [Yarn](https://yarnpkg.com/package/guify)
+   [Yarn React](https://yarnpkg.com/package/react)
+   
+   [Yarn React Dom](https://yarnpkg.com/package/react-dom)
   
    ### For HTML
   
-   Put this into your html in the heading:
-   
-   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
+   React has a page for it: [CDN Links](https://reactjs.org/docs/cdn-links.html)
    
    ## Info
   
-     Latest Version: 1.2.0
-     [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
-     [Changelog]()
+     React Latest Version: 17.0.2
+     React Dom Latest Version: 17.0.2
+     [Docs](https://reactjs.org/docs/getting-started.html)
+     [Changelog](https://github.com/facebook/react/blob/main/CHANGELOG.md)
      Active: True
 
 # Go Back To Main Page
