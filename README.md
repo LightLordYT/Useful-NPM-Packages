@@ -63,14 +63,16 @@ This will also show how to install the packages and a bit of info about them.
   [Make a pull request](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/pulls)
   After making a pull request, I will review it and might add it to the main repository.
  
-# Packages I am adding to this list
+# Packages I will be adding to this list
 
 - Webslide
-- Jquery
 - WS(Websocket)
 - Axios
-- Express
-- Nodemon
 - Webpack-dev-server
 - puppeteer
  
+# In Progress
+
+- Jquery
+- Nodemon
+- Express
