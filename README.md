@@ -22,6 +22,8 @@ This will also show how to install the packages and a bit of info about them.
   [Resources](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md#resources)
   
   [Contributing](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md#contributing)
+  
+  [Packages I am adding](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md#packages-i-am-adding-to-this-list)
     
  # Package Managers
  
