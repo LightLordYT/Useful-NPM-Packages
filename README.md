@@ -1,4 +1,4 @@
-# Useful-NPM/YARN-Packages
+# Useful NPM/YARN Packages
 I have put some NPM/YARN Packages down below that are pretty useful in my opinion. 
 This will also show how to install the packages and a bit of info about them.
  
