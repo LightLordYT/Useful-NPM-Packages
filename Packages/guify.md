@@ -14,13 +14,13 @@
   
    Put this into your html in the heading:
    
-   ```<script type="text/javascript" src="dat.gui.min.js"></script>```
+   ```<script type="text/javascript" src="https://unpkg.com/guify@0.12.0/lib/guify.min.js"></script>```
 
    ## Info
   
-     Latest Version: 1.2.0
+     Latest Version: 0.12.0
      [Docs](https://github.com/dataarts/dat.gui/blob/master/API.md)
-     [Changelog]()
+     [Changelog](https://github.com/colejd/guify/blob/master/changelog.md)
      Active: True
 
 # Go Back To Main Page
