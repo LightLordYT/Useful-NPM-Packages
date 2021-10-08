@@ -29,7 +29,7 @@
 
 # Resources
 
-[Look at resources](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#resources)
+[Look at resources](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#resources) 
 
 # More Packages
 
