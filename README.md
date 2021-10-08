@@ -50,6 +50,8 @@ This will also show how to install the packages and a bit of info about them.
  
   [A good video tutorial for babel and webpack](https://www.youtube.com/watch?v=iWUR04B42Hc)
   
+  [What is npm/yarn and how to use it to install/remove packages?](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/packageinfo.md)
+  
  # Contributing
  
   How to contribute:
