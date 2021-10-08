@@ -4,6 +4,8 @@
   
   [Github](https://github.com/webpack/webpack)
   
+  [Recommended Use With Babel](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/babel.md)
+  
    ## Installation
   
    [NPM](https://www.npmjs.com/package/webpack)
@@ -14,7 +16,7 @@
   
    Put this into your html in the heading:
    
-   ```<script type="text/javascript" src="https://unpkg.com/webpack@5.58.0/bin/webpack.js"></script>```
+   ```<script src="https://unpkg.com/webpack@5.58.0/bin/webpack.js"></script>```
    
    ## Info
   
