@@ -5,6 +5,10 @@ A starter pack to build JavaScript applications using standards from ES2015, ES2
 1.1.0
 
 # Usage
+## Clone
+Click Code and press github CLI. Clone through terminal.
+2nd way: Click Code and download as zip. Unpack zip in your text editor.
+
 ## Installation
 Install the dependencies
 
