@@ -67,3 +67,4 @@ This will also show how to install the packages and a bit of info about them.
 - Nodemon
 - Webpack-dev-server
 - puppeteer
+ 
