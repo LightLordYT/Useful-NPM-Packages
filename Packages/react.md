@@ -4,6 +4,8 @@
   
   [Github](https://github.com/facebook/react)
   
+  [React DOM Package is recommended for use with React](https://www.npmjs.com/package/react-dom)
+  
    ## Installation
   
    [NPM React](https://www.npmjs.com/package/react)
