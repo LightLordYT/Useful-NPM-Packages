@@ -6,9 +6,9 @@
   
   ## Installation
   
-   [NPM](https://www.npmjs.com/package/guify)
+   [NPM](https://www.npmjs.com/package/dat.gui)
   
-   [Yarn](https://yarnpkg.com/package/guify)
+   [Yarn](https://yarnpkg.com/package/dat.gui)
   
    ### For HTML
   
