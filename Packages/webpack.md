@@ -29,6 +29,12 @@
 
 [Go back to main page](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#readme)
 
+NOTE:
+Since webpack is slightly hard to understand I recommend these two videos for reference.
+[Traversy Media](https://www.youtube.com/watch?v=iWUR04B42Hc)
+
+[Academind](https://www.youtube.com/watch?v=GU-2T7k9NfI)
+
 # Resources
 
 [Look at resources](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-#resources)
