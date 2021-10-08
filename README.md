@@ -50,6 +50,12 @@ This will also show how to install the packages and a bit of info about them.
   
   [What is npm/yarn and how to use it to install/remove packages?](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/packageInfo.md)
   
+  [NPM](https://www.npmjs.com/)
+  
+  [Yarn](https://yarnpkg.com/)
+  
+  [UNPKG](https://unpkg.com/)
+  
  # Contributing
  
   How to contribute:
