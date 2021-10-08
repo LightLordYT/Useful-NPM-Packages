@@ -5,7 +5,7 @@ This will also show how to install the packages and a bit of info about them.
 # Contents
   [Webpack](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/webpack.md)
   
-    I would also recommend Babel to go with this
+    Babel is recommended for use with webpack.
     
   [Babel](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/babel.md)
   
