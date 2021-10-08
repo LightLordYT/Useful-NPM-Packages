@@ -10,17 +10,18 @@ Install the dependencies
 
 ```$ npm install```
 
-Serve
+## Serve
 To serve in the browser - Runs webpack-dev-server
 
 ```$ npm start```
-Build
+
+## Build
 Compile and build
 
-$ npm run build
-More Info
+```$ npm run build```
+
+## More Info
 Author
 Brad Traversy Traversy Media
 
-License
-This project is licensed under the MIT License
+
