@@ -5,11 +5,13 @@ This will also show how to install the packages and a bit of info about them.
 # Contents
   [Webpack](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/webpack.md)
   
-    Babel is recommended for use with webpack.
+    The Babel Package is recommended for use with webpack.
     
   [Babel](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/babel.md)
   
   [React](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/react.md)
+  
+    The React DOM Package is recommend for use with React
   
   [Guify](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/guify.md)
   
