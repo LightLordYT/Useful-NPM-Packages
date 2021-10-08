@@ -4,6 +4,8 @@
   
   [Github](https://github.com/babel/babel)
   
+  [Babel Loader is to be Used With Webpack](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/webpack.md)
+  
    ## Installation
   
    [NPM Babel Core](https://www.npmjs.com/package/@babel/core)
