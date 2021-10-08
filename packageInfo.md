@@ -38,4 +38,4 @@
 
 # NOTE THIS IS JUST THE BASICS LOOK AT DOCUMENTATION FOR MORE.
 
-[Go back to homepage](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main#readme.md)
+[Go back to homepage](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/tree/main#readme)
