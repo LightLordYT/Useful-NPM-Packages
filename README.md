@@ -60,3 +60,10 @@ This will also show how to install the packages and a bit of info about them.
 # Packages I am adding to this list
 
 - Webslide
+- Jquery
+- WS(Websocket)
+- Axios
+- Express
+- Nodemon
+- Webpack-dev-server
+- puppeteer
