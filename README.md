@@ -15,13 +15,13 @@ This will also show how to install the packages and a bit of info about them.
   
   [Dat.Gui](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/Packages/datgui.md)
   
-  [Package Managers](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#packagemanagers)
+  [Package Managers](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md#packagemanagers)
   
-  [Unpackage](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#unpackage)
+  [Unpackage](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md#unpackage)
   
-  [Resources](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#resources)
+  [Resources](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md#resources)
   
-  [Contributing](https://github.com/LightLordYT/Useful-Packages-NPM-YARN/blob/main/README.md#contributing)
+  [Contributing](https://github.com/LightLordYT/Useful-Packages-NPM-YARN-/blob/main/README.md#contributing)
     
  # Package Managers
  
