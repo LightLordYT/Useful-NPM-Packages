@@ -72,8 +72,7 @@ This will also show how to install the packages and a bit of info about them.
 - puppeteer
 - Bootstrap
 - Semantic UI
-- Express
-- Nodemon
+- Node Fetch
  
 # In Progress
 
