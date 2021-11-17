@@ -70,6 +70,10 @@ This will also show how to install the packages and a bit of info about them.
 - Axios
 - Webpack-dev-server
 - puppeteer
+- Bootstrap
+- Semantic UI
+- Express
+- Nodemon
  
 # In Progress
 
